@@ -1,4 +1,4 @@
-# Thrift::Builder
+# Thrift::Builder [![Build Status](https://travis-ci.org/investtools/thrift-builder.svg?branch=master)](https://travis-ci.org/investtools/thrift-builder)
 
 Thrift::Builder helps you building Thrift objects.
 
